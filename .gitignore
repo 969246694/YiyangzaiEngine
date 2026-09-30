@@ -31,3 +31,7 @@ logs/
 
 # 第三方依赖（如果你自己下载的）
 third_party/install/
+
+# Node 依赖（可重建，不入库）
+node_modules/
+
